@@ -1,2 +1,2 @@
-first time using git Nothing os going inside my mind.
+This is my first time using git. Nothing is going inside my mind.
 # Dont know what to do.
