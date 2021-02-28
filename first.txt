@@ -1,2 +1,3 @@
-This is my first time using git. Nothing is going inside my mind.
+This is my first time using git and Github.
+Nothing is getting in my mind, so I am pretty much nervous but I am sure I will get used to it.
 # Dont know what to do.

@@ -1,2 +1,3 @@
-learning from code with herry. he is a great teacher. 
-#having fun with git.
+Now I have understand some of the things in git and Github. Soon I will start contributing in opensource and will become one of the best coder out there. I am going to crush everyone.
+#Having fun with git
+#Don't take this seriously
